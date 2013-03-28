@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe 'sequelPro' do
+describe 'sequel_pro' do
   it do
     should contain_package('SequelPro').with({
       :provider => 'appdmg',
