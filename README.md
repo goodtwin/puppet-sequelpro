@@ -1,9 +1,11 @@
-# Rdio Puppet Module for Boxen
+# Sequel pro Puppet Module for Boxen
+
+[Sequel Pro](http://www.sequelpro.com/). MySQL database management for Mac OS X.
 
 ## Usage
 
 ```puppet
-include rdio
+include sequel_pro
 ```
 
 ## Required Puppet Modules
